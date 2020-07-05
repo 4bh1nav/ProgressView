@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-<img src="/Users/ron/Downloads/ProgressViewSampleApp/art/BOUNCE.gif" width="32%"/>
-<img src="/Users/ron/Downloads/ProgressViewSampleApp/art/vertical.gif" width="32%"/>
+![]("https://github.com/4bh1nav/ProgressView/blob/master/art/BOUNCE.gif" | width="32")
+![]("https://github.com/4bh1nav/ProgressView/blob/master/art/vertical.gif" | width="32")
 </p>
 
 ## Including in your project
@@ -75,7 +75,7 @@ val data = ProgressData(
 ```
 
 ### ProgressViewAnimation
-We can implement progress animations when the progress value is changed.
+Interpolator to be used in state change animations.
 
 ```kotlin
 ProgressViewAnimation.NORMAL
