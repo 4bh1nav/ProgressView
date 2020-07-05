@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProgressView">
+        <attr name="colorBackground" format="color" />
+
+        <!--  orientation of the progressView. -->
+        <attr name="progressView_orientation" format="enum">
+            <enum name="horizontal" value="0" />
+            <enum name="vertical" value="1" />
+        </attr>
+
+        <!--Animation of the progressing animation. -->
+        <attr name="progressView_animation" format="enum">
+            <enum name="normal" value="0" />
+            <enum name="bounce" value="1" />
+            <enum name="decelerate" value="2" />
+            <enum name="accelerateDecelerate" value="3" />
+        </attr>
+
+        <!--  corner radius of the ProgressView. -->
+        <attr name="progressView_radius" format="dimension" />
+
+        <!--  duration of the animation. -->
+        <attr name="progressView_duration" format="integer" />
+
+        <!--  starts filling animation automatically when finishing inflate. -->
+        <attr name="progressView_autoAnimate" format="boolean" />
+
+    </declare-styleable>
+</resources>

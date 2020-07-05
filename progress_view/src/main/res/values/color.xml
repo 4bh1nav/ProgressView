@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <color name="def_background_color">#E6E8F2</color>
+    <color name="drak_grey">#95a5a6</color>
+    <color name="rally_orange">#FF6859</color>
+    <color name="rally_green_500">#21AF6C</color>
+    <color name="rally_blue_700">#0C68FA</color>
+</resources>
