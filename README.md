@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-![]("https://github.com/4bh1nav/ProgressView/blob/master/art/BOUNCE.gif" | width="32")
-![]("https://github.com/4bh1nav/ProgressView/blob/master/art/vertical.gif" | width="32")
+<img src="https://raw.githubusercontent.com/4bh1nav/ProgressView/master/art/BOUNCE.gif" width="32%"/>
+<img src="https://raw.githubusercontent.com/4bh1nav/ProgressView/master/art/vertical.gif" width="32%"/>
 </p>
 
 ## Including in your project
