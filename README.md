@@ -1,9 +1,6 @@
 <h1 align="center">Minimalistic ProgressView</h1></br>
 <p align="center">
-  <img alt="JitPack" src="https://img.shields.io/jitpack/v/github/4bh1nav/ProgressView">
-  <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a>
-  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=%404bh1nav&style=social&url=https%3A%2F%2Ftwitter.com%2F4bh1nav">
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/4bh1nav/ProgressView?style=social">
+  	<a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a>
 </p>
 
 <p align="center">
@@ -29,7 +26,7 @@ allprojects {
 And add a dependency code to your **module**'s `build.gradle` file.
 ```gradle
 dependencies {
-    implementation ""
+    implementation 'com.github.4bh1nav:ProgressView:v1.0'
 }
 ```
 
