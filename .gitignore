@@ -2,6 +2,12 @@
 *.apk
 *.ap_
 
+*.settings
+
+*.project
+
+*.vscode
+
 # Files for the ART/Dalvik VM
 *.dex
 
