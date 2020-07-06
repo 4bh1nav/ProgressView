@@ -1,6 +1,5 @@
 <h1 align="center">Minimalistic ProgressView</h1></br>
 <p align="center">
-	[![Jitpack](https://jitpack.io/v/4bh1nav/ProgressView.svg)](https://jitpack.io/#4bh1nav/ProgressView)
   	<a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a>
 </p>
 
