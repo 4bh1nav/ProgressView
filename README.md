@@ -1,5 +1,8 @@
 <h1 align="center">Minimalistic ProgressView</h1></br>
 <p align="center">
+    <img alt="JitPack" src="https://img.shields.io/jitpack/v/github/4bh1nav/ProgressView">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/4bh1nav/ProgressView?style=social">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/4bh1nav?style=social">
   	<a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a>
 </p>
 
@@ -120,7 +123,7 @@ The view allows you to configure various properties to let you create a unique s
 
 [Lilbite Food Tracker](https://play.google.com/store/apps/details?id=com.lilbite.ai)
 <p align="start">
-<img src="https://raw.githubusercontent.com/4bh1nav/ProgressView/master/art/screenshot_1.png" width="32%"/>
+<img src="https://raw.githubusercontent.com/4bh1nav/ProgressView/master/art/lilbite.png" width="32%"/>
 </p>
 
 
