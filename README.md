@@ -18,10 +18,11 @@
 Add below codes to your **root** `build.gradle` file (not your module build.gradle file).
 ```gradle
 allprojects {
-    repositories {
-        jcenter()
-    }
-}
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
 ```
 And add a dependency code to your **module**'s `build.gradle` file.
 ```gradle
