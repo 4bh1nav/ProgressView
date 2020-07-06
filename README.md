@@ -1,6 +1,9 @@
 <h1 align="center">Minimalistic ProgressView</h1></br>
 <p align="center">
+  <img alt="JitPack" src="https://img.shields.io/jitpack/v/github/4bh1nav/ProgressView">
   <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a>
+  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=%404bh1nav&style=social&url=https%3A%2F%2Ftwitter.com%2F4bh1nav">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/4bh1nav/ProgressView?style=social">
 </p>
 
 <p align="center">
@@ -18,11 +21,10 @@
 Add below codes to your **root** `build.gradle` file (not your module build.gradle file).
 ```gradle
 allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
-	}
+    repositories {
+        jcenter()
+    }
+}
 ```
 And add a dependency code to your **module**'s `build.gradle` file.
 ```gradle
@@ -120,6 +122,9 @@ The view allows you to configure various properties to let you create a unique s
 ## Apps that use this library
 
 [Lilbite Food Tracker](https://play.google.com/store/apps/details?id=com.lilbite.ai)
+<p align="start">
+<img src="https://raw.githubusercontent.com/4bh1nav/ProgressView/master/art/screenshot_1.png" width="32%"/>
+</p>
 
 
 # License
